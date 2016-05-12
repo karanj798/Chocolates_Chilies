@@ -196,7 +196,4 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    void Temp (){
-
-    }
 }
